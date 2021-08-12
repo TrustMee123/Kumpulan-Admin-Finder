@@ -1,2 +1,1 @@
-# Kumpulan-Script-Spam
-Kumpulan Script Spam
+# Wirelles Attack
