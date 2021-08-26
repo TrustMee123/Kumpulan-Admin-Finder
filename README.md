@@ -7,7 +7,7 @@ $ pkg install unzip
 $ pkg install git
 $ pkg install python
 $ pkg install python2
-$ git clone ...
+$ git clone https://github.com/TrustMee123/Kumpulan-Admin-Finder
 $ cd Kumpulan-Admin-Finder
 $ unzip Script-Adlog-Finder
 $ cd Script-Adlog-Finder
