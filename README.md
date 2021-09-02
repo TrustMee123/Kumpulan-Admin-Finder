@@ -1,6 +1,6 @@
 # Kumpulan-Admin-Finder
 
-Cara install :
+Cara install/installation :
 
 $ pkg update && pkg upgrade
 $ pkg install unzip
